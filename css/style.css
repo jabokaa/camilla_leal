@@ -1,0 +1,705 @@
+.nanum-gothic-regular {
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+.nav-bar-camilla{
+    /* background-color: rgb(219, 183, 161); */
+    /* background-color: rgb(236, 231, 225); */
+    /* background-color: rgb(255, 255, 255); */
+    padding: 0.5rem 0;
+}
+
+.home-main-camilla{
+    background-image: url("../images/icone_fundo.png");
+    background-repeat: no-repeat;
+    background-color: white;
+    /* background-color: rgb(219, 183, 161); */
+    /* background-color: rgb(255, 255, 255); */
+    /* background-color: rgb(236, 231, 225); */
+}
+@media (max-width: 768px) {
+    .home-main-camilla{
+        background-image: url("../images/icone_fundosm.png");
+    }
+}
+
+.pt-sans caption-regular {
+    font-family: "PT Sans Caption", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pt-sans caption-bold {
+    font-family: "PT Sans Caption", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+.mitr-extralight {
+    font-family: "Mitr", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.mitr-light {
+    font-family: "Mitr", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.mitr-regular {
+    font-family: "Mitr", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.mitr-medium {
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.mitr-semibold {
+    font-family: "Mitr", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.mitr-bold {
+    font-family: "Mitr", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text-logo-camilla{
+    font-family: "Mitr", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: rgb(197, 92, 59) !important;
+    margin-bottom: 0px;
+}
+.text-logo-camilla-mm{
+    font-family: "Mitr", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: rgb(197, 92, 59) !important;
+    margin-bottom: 0px;
+}
+
+.sub-text-logo-camilla-m{
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;    
+    color: rgb(24, 19, 17) !important;
+}
+.sub-text-logo-camilla-mm{
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;    
+    color: rgb(24, 19, 17) !important;
+}
+.sub-text-logo-camilla{
+  font-family: "Mitr", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  color: rgb(197, 92, 59) !important;
+  margin-bottom: 0px;
+}
+.sub-text-logo-camilla-w{
+  font-family: "Mitr", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  color: white;
+  margin-bottom: 0px;
+}
+
+.picture-frame {
+    min-height: 100vh;
+}
+
+.nav-link{
+    color: rgb(197, 92, 59);
+    font-size: 16px;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+
+.text-camilla{
+    /* "Poppins" */
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(24, 19, 17);
+}
+
+.text-camilla-w {
+    /* "Poppins" */
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+}
+
+.container{
+    max-width: 70%;
+}
+
+.btn-camilla{
+
+    font-family: "Poppins", Sans-serif;
+    font-weight: 300;
+    fill: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+
+    text-decoration: none;
+
+    padding: 21px 30px;
+    background-color: rgb(197, 92, 59);
+    border: 1px solid rgb(255, 255, 255);
+    height: 40px;
+
+}
+.btn-camilla-w{
+
+    font-family: "Poppins", Sans-serif;
+    font-weight: 300;
+    fill: #212529;
+    letter-spacing: 2px;
+
+    text-decoration: none;
+
+    padding: 21px 30px;
+    background-color: transparent;
+    border: 1px solid white;
+    height: 40px;
+    color: white
+
+}
+.btn-camilla-w:hover{
+    background-color: white;
+    color: rgb(197, 92, 59);
+    transition: 0.5s;
+}
+
+.btn-camilla:hover{
+    background-color: transparent;
+    color: rgb(197, 92, 59);
+    transition: 0.5s;
+    border: 1px solid rgb(197, 92, 59);
+}
+
+.items-nav-camilla{
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    color: rgb(197, 92, 59);
+}
+.menu{
+    width: 100%;
+    /* background-color: rgb(236, 231, 225); */
+}
+
+.btn-camilla-s{
+    font-family: "Poppins", Sans-serif;
+    font-weight: 300;
+    fill: #212529;
+    color: #212529;
+    letter-spacing: 2px;
+    text-decoration: none;
+    padding: 11px 30px;
+    background-color: transparent;
+    border: 1px solid rgb(24, 19, 17);
+    height: 40px;
+    color: rgb(197, 92, 59);
+}
+
+.sobreposta {
+  position: absolute;
+  z-index: 1000;
+  top: 0px; /* exemplo */
+  left: 0px; /* exemplo */
+  width: 100%;
+}
+.square{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    z-index: 1000;
+}
+
+
+.cartao {
+  
+  min-height: 200px;
+}
+
+
+.cartao-container {
+  position: relative;
+  height: 100%;
+  background-color: transparent;
+}
+
+.cartao-front {
+  border-radius: 10px;
+  background-color:  rgb(219, 183, 161);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* Centraliza horizontalmente caso necessário */
+  height: 100%; /* Ajuste a altura conforme necessário */
+}
+
+.cartao-front, .cartao-back {
+  backface-visibility: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+.cartao-back {
+  transform: rotateY(180deg);
+  padding-top: 2rem;
+  background: rgb(236, 231, 225);
+}
+
+
+
+.card_icon{
+  background-color: rgb(236, 231, 225);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0px;
+  height: 200px;
+}
+
+.body_icon_img{
+  /* background-color: saddlebrown; */
+  border-radius: 100%;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.conteudo-centralizado {
+  text-align: center; /* Centraliza o texto e conteúdos inline */
+}
+
+.conteudo-centralizado img {
+  border-radius: 100%;
+  height: 150px;
+  padding-top: 1rem; /* Ajuste o padding conforme necessário */
+}
+
+.titulo-cardiologia {
+  padding: 0 1rem 0.5rem; /* Ajuste o padding conforme necessário */
+  text-align: center;
+}
+.carousel-item-camilla {
+  height: 500px;
+
+}
+.carousel {
+  height: 400px;
+}
+#carouselMob{
+  display: none;
+}
+
+@media (max-width: 768px) {
+  #carouselMob{
+    display: block;
+  }
+  #carouselDesk{
+    display: none;
+  }
+}
+
+.div-especialidades{
+  width: 75%;
+  margin: 0 auto;
+  padding-bottom: 100px;
+}
+
+@media (max-width: 768px) {
+  .div-especialidades{
+    width: 100%;
+  }
+}
+@media (max-width: 1200px) {
+  .cartao {
+    padding-bottom: 100px;
+  }
+}
+
+.sobre-div{
+  max-width: 75%;
+  margin-bottom: 200px;
+}
+
+@media (max-width: 768px) {
+  .sobre-div{
+    max-width: 100%;
+  }
+}
+
+.sobre-camilla-div{
+  max-width: 75%;
+}
+
+@media (max-width: 768px) {
+  .sobre-camilla-div{
+    max-width: 100%;
+  }
+}
+
+/* sobrecamilla-text"style="padding-left: 130px; */
+.sobrecamilla-text{
+  padding-left: 130px;
+}
+
+@media (max-width: 1200px) {
+  .sobrecamilla-text{
+    padding-left: 0px !important;
+    min-height: 1% !important;
+  }
+}
+
+.sobrecamilla{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+
+.link-preto{
+  color: black;
+}
+
+.logo_nav{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.number-nav{
+  /* remove borda do botãp */
+  border: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+@media (max-width: 768px) {
+  .logo_nav{
+    display: block;
+  }
+  .number-nav{
+    padding-top: 0px !important;
+  }
+}
+
+.camilahomeimag{
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .camilahomeimag{
+    display: block;
+  }
+}
+
+.camilahomeback{
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .camilahomeback{
+    display: none;
+  }
+}
+
+.home_text{
+  height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .home_text{
+    height: 50vh;
+  }
+}
+
+@media (max-width: 1000px) {
+  .navbar-brand{
+    display: none;
+  }
+}
+
+.transparent-card{
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0);
+  width: 50%;
+  border: 0px;
+  
+}
+.blog-card{
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0);
+  height: 400px;
+  border: 0px;
+  
+}
+
+@media (max-width: 768px) {
+  .transparent-card{
+    width: 100%;
+  }
+}
+
+.card-title{
+  padding-bottom: 30px;
+}
+
+#whatsapp-button {
+  position: fixed;
+  right: 20px;   /* Distância da borda direita da tela */
+  bottom: 20px;  /* Distância da borda inferior da tela */
+  z-index: 1000; /* Certifica-se de que o botão ficará sobre outros elementos */
+}
+
+#whatsapp-button img {
+  width: 50px;   /* Largura do ícone */
+  height: 50px;  /* Altura do ícone */
+  transition: transform 0.3s ease-in-out;
+}
+
+#whatsapp-button:hover img {
+  transform: scale(1.1); /* Efeito de zoom ao passar o mouse */
+}
+
+
+@media (max-width: 1800px) {
+  .nav-link{
+      color: rgb(197, 92, 59);
+      font-size: 10px;
+      letter-spacing: 1px;
+      font-weight: 400;
+  }
+  .section-camilla {
+    height: 80vh !important;
+  }
+}
+@media (max-width: 1200px) {
+  .div-especialidades{
+    padding-bottom: 0px;
+  }
+  .nav-link{
+      color: rgb(197, 92, 59);
+      font-size: 10px;
+      letter-spacing: 1px;
+      font-weight: 400;
+  }
+  .carousel {
+    height: auto !important;
+  }
+
+  .sobre-div{
+    margin-bottom: 100px;
+  }
+
+  .cartao {
+    min-height: 400px;
+  }
+
+  .blog-fluid{
+    height: auto !important;
+  }
+
+  
+  .carousel-item-camilla {
+    height: auto !important;
+    padding-bottom: 100px;
+  
+  }
+  .carousel-item-camilla2 {
+    padding: 500px;
+  
+  }
+
+  .btn-camilla{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .border-top-camilla{
+    display: none !important;
+  }
+
+  .foto-camilla{
+    width: 100% !important;
+    height: auto !important;
+    margin-top: 20px;
+  }
+
+  .section-camilla {
+    height: auto !important;
+    padding-bottom: 30px;
+  }
+  .sobrecamilla{
+    height: auto !important;
+  }
+  .text-home{
+    padding-bottom: 0px !important;
+  }
+}
+@media (min-width: 1801px) {
+  .section-camilla {
+    height: 768px !important;
+  }
+}
+
+.card{
+  border: 0px;
+}
+
+.blog-fluid{
+  height: 100vh;
+}
+
+@media (min-height: 801px) {
+  .blog-fluid {
+    height: 700px !important;
+  }
+}
+
+.foto-camilla{
+  height: 100%;
+  border: 10px solid white;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.3);
+}
+
+.text-home{
+  padding-bottom: 48px;
+}
